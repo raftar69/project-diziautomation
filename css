@@ -1,0 +1,140 @@
+.db{
+    width:1350px;
+    height: 500px;
+    background-color: black;
+    margin:-8px;
+    padding:0%;
+}
+.title{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:white;  
+    margin-left:450px;
+    display: inline-block;
+    margin-top:20px;
+}
+.content{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-weight: 300;
+    color:white;   
+    margin-left:150px;
+    margin-right:150px;
+    display: inline-block;
+}
+.title2{
+    margin-left:200px;
+    margin-right:200px;
+    margin-top:100px;
+    font-size: 21px;
+}
+.title2 a{
+    color:darkblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+}
+.dbp{
+    height:300px;
+    width:260px;
+    margin-top: 50px;
+    display: inline-block;
+    margin-left: 170px;
+}
+.rs{
+    height:300px;
+    width:260px;
+    margin-top: 50px;
+    display: inline-block;
+    margin-left: 50px;
+}
+.rpo{
+    height:300px;
+    width:260px;
+    margin-top: 50px;
+    display: inline-block;
+}
+.pa{
+    height:300px;
+    width:260px;
+    margin-top: 50px;
+    display: inline-block;
+    margin-left:-40px;
+
+}
+.con{
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    font-size: 15px;
+    padding-left: 30px;
+}
+#mark{
+    color:rgb(73, 73, 225);
+    margin-right:20px;
+}
+.dbp1{
+    margin-top: 40px;
+}
+.rs1{
+    margin-top: 40px;
+}
+.rpo1{
+    margin-top: 40px;
+}
+.pa1{
+    margin-top: 40px;
+}
+body{
+    background-color: rgb(220, 220, 241);
+}
+.contact{
+    background-color:rgba(170, 170, 239, 0.608);
+    height: 200px;
+    width:900px;
+    border-radius:30px;
+    margin-left: 200px;
+    margin-top:40px;
+}
+#s1{
+    color:rgb(1, 1, 67);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    margin-left:260px;
+    font-size: 20px;
+    margin-top:30px;
+    display: inline-block;
+}
+#s2{
+    color:rgb(1, 1, 67);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    margin-left:230px;
+    font-size: 20px;
+    display: inline-block;
+    margin-top:-5px;
+}
+.but{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:50px;
+    width:140px;
+    margin-left: 400px;
+    color:rgb(255, 255, 255);
+    background-color: rgb(2, 2, 48);
+    border-radius:10px;
+    margin-top:10px;
+}
+.but a{
+    color:rgb(146, 158, 218);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+}
+.footer{
+    width:980px;
+    height:150px;
+    margin-top: 60px;
+    margin-left: 150px;
+    border-top: 1px solid black;
+}
